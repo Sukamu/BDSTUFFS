@@ -41,7 +41,7 @@
   --overlay-brightness: 0;
   --gradient-primary: 255,138,196;
   --gradient-secondary: 233,166,192;
-  --link-colour: #CF97C4;
+  --link-colour: #212021;
   --scrollbar-colour: rgba(255,255,255,0.05);
   --gradient-direction: 247deg;
   --tint-colour: 233,166,192;
@@ -68,5 +68,4 @@
 }
 
 /* Any custom CSS below here */
-
 
